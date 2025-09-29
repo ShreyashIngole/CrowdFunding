@@ -29,13 +29,13 @@ This project provides insights into global crowdfunding trends using **Power BI,
 ## 📂 Dashboards Preview
 
 ### ✅ Dashboard 1 (Power BI)
-![Dashboard 1](Screenshot 2025-09-29 213437.png)
+![Dashboard 1](images/Screenshot 2025-09-29 213437.png)
 
 ### ✅ Dashboard 2 (Power BI)
-![Dashboard 2](Screenshot 2025-09-29 213452.png)
+![Dashboard 2](images/Screenshot 2025-09-29 213452.png)
 
 ### ✅ Excel Dashboard
-![Excel Dashboard](Screenshot 2025-09-29 214111.png)
+![Excel Dashboard](images/Screenshot 2025-09-29 214111.png)
 
 > 📝 Replace the filenames above (dashboard1.png, etc.) with your actual image names after uploading.
 
