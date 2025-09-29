@@ -10,11 +10,9 @@ This project presents an interactive data analysis dashboard for crowdfunding pl
 
 ### Tableau Dashboard View
 ![Tableau Dashboard](images/Screenshot%202025-09-29%20213725.png)
-*Detailed breakdown of successful projects, category performance, and goal range analysis*
 
 ### PowerBI Dashboard Views
 ![PowerBI Dashboard](images/Screenshot%202025-09-29%20213437.png)
-*(Add your 3 remaining screenshots here with descriptive captions)*
 
 ## 🎯 Key Features
 
@@ -100,4 +98,3 @@ The dashboard covers diverse categories including:
 - Success rate calculations
 - Trend analysis and forecasting
 
-## 📁 Repository Structure
