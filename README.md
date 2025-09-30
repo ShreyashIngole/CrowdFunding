@@ -14,6 +14,9 @@ This project presents an interactive data analysis dashboard for crowdfunding pl
 ### PowerBI Dashboard Views
 ![PowerBI Dashboard](images/Screenshot%202025-09-29%20213437.png)
 
+## Cleaned Excel file
+- https://docs.google.com/spreadsheets/d/1el-cHdhfhVGpTUUBccJXJpNN9rXsbWXW/edit?usp=sharing&ouid=100918708154111847828&rtpof=true&sd=true
+
 ## 🎯 Key Features
 
 ### **Temporal Analysis**
